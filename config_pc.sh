@@ -2,7 +2,7 @@
 
 # Clona repositorio com os roteiros para o desktop 
 cd /home/professor/Desktop/
-git clone https://github.com/tpnascimento/labmicro.git
+git clone https://github.com/lab-micro-ufes/roteiros.git
 
 # Instala Dosbox
 sudo apt install dosbox
