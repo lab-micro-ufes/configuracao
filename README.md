@@ -1,4 +1,4 @@
-# Configuração dos Computadores
+# Leia-me
 
 Esse repositório contém o arquivo "config_pc.sh" com o objetivo de configurar os computadores do Laboratório de Sistemas Embarcados do DEE-UFES, para serem utilizados no semestre 2022-1
 
