@@ -9,3 +9,4 @@ git clone https://github.com/lab-micro-ufes/configuracao.git
 chmod -u+rwx configuracao/config_pc.sh
 ./configuracao/config_pc.sh 
 ```
+O arquivo de configuração vai, entre outras coisas, criar um usuário "aluno". Quando a senha para esse usuário for pedida digite "aluno"
