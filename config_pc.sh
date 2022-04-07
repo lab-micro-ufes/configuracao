@@ -16,7 +16,7 @@ sudo apt install zip
 sudo adduser aluno 
 
 # Copia a pasta dos roteiros para o usuario "aluno"
-sudo cp -r ../Roteiros /home/aluno/
+sudo cp -r Roteiros /home/aluno/
 
 # Muda permissão da pasta dos roteiros
 sudo chmod -R o+rwx /home/aluno/Roteiros
