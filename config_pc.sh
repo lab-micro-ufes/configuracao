@@ -13,4 +13,4 @@ sudo snap install --classic code
 sudo adduser aluno 
 
 # Copia a pasta dos roteiros para o usuario "aluno"
-scp ../Roteiros aluno@$(hostname):~
+scp -r ../Roteiros aluno@$(hostname):~
