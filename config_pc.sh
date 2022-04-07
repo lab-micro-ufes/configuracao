@@ -8,3 +8,9 @@ sudo apt install dosbox
 
 # Instala visual studio code
 sudo snap install --classic code
+
+# Cria usuario para aluno
+sudo adduser aluno 
+
+# Copia a pasta dos roteiros para o usuario "aluno"
+scp ../Roteiros aluno@$(hostname):~
