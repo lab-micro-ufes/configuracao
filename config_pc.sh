@@ -19,4 +19,4 @@ sudo adduser aluno
 sudo cp -r ../Roteiros /home/aluno/
 
 # Muda permissão da pasta dos roteiros
-sudo chmod o+rwx /home/aluno/Roteiros
+sudo chmod -R o+rwx /home/aluno/Roteiros
