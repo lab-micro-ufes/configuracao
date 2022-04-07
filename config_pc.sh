@@ -9,8 +9,14 @@ sudo apt install dosbox
 # Instala visual studio code
 sudo snap install --classic code
 
+# Instala zip 
+sudo apt install zip
+
 # Cria usuario para aluno
 sudo adduser aluno 
 
 # Copia a pasta dos roteiros para o usuario "aluno"
 sudo cp -r ../Roteiros /home/aluno/
+
+# Muda permissão da pasta dos roteiros
+sudo chmod o+rwx /home/aluno/Roteiros
